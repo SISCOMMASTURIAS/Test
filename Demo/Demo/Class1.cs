@@ -6,5 +6,9 @@ namespace Demo
     {
         nodo siguente;
         object dato;
+
+        public nodo()
+        {
+        }
     }
 }
